@@ -1,28 +1,43 @@
+<p align="center">
+  <img src="./docs/github-cover.svg" alt="ProGonyometre cover" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-React_Native-20232A?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/Runtime-Expo-000020?style=for-the-badge&logo=expo" alt="Expo" />
+  <img src="https://img.shields.io/badge/Domain-Health_Tech-0f766e?style=for-the-badge" alt="Health Tech" />
+</p>
+
 # ProGonyometre
 
-ProGonyometre is a mobile goniometer app focused on measuring joint range of motion with smartphone sensors.
-It is designed around real physiotherapy workflows where speed, clarity, and practical use matter.
+ProGonyometre turns a common physiotherapy need into a focused mobile product: measure joint range of motion quickly, clearly, and with tools already in your pocket.
 
-## What It Does
+## Why This Project Matters
 
-- Measures range of motion with a phone-based interface
-- Supports clinical-style use in assessment and follow-up
-- Keeps the experience fast, focused, and easy to repeat
-- Targets day-to-day use by physiotherapists and rehabilitation teams
+- Brings ROM measurement into a mobile-first workflow
+- Reduces friction during repeated assessment sessions
+- Fits real clinic usage better than generic utility apps
+- Positions physiotherapy practice inside a modern digital toolset
 
-## Tech Stack
+## Core Highlights
+
+- Smartphone sensor based measurement flow
+- Fast session-oriented mobile interface
+- Clinical use case around assessment and follow-up
+- Lightweight stack that is easy to iterate on
+
+## Stack
 
 - React Native
 - Expo
 - Expo Sensors
 - React Navigation
 
-## Project Goal
+## Product Direction
 
-This project turns a common physiotherapy need into a practical mobile tool.
-The goal is to reduce friction during measurement and make digital assessment more accessible.
+The goal is not just to build a measurement screen. The goal is to create a practical health-tech tool that feels fast enough for real appointments and clear enough for repeat clinical use.
 
-## Getting Started
+## Run Locally
 
 ```bash
 npm install
